@@ -6,6 +6,14 @@ Rick And Morty Wiki Android application with The Rick and Morty API by bhasanogl
 API Link: https://rickandmortyapi.com/
 
 
+Libraries:
+* Volley: https://developer.android.com/training/volley
+* Picasso: https://square.github.io/picasso/
+* RecyclerView: https://developer.android.com/guide/topics/ui/layout/recyclerview
+
+
+
+
 ## Main Character Page
 
 
