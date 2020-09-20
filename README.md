@@ -1,6 +1,6 @@
 ## Rick And Morty Wiki App
 
-Rick And Morty Wiki Android applicationwith The Rick and Morty API by bhasanoglu(Batuhan Hasanoğlu)
+Rick And Morty Wiki Android application with The Rick and Morty API by bhasanoglu(Batuhan Hasanoğlu)
 
 
 API Link: https://rickandmortyapi.com/
